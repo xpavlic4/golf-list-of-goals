@@ -4,7 +4,7 @@ List of goals
 Make an application where user can check following items:
 
 Short term:
-*  Chip-in
+[]  Chip-in
 * Birdie
 * Eagle
 * 3 GIR in a row
