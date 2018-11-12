@@ -4,11 +4,11 @@ List of goals
 Make an application where user can check following items:
 
 Short term:
-- [ ]  Chip-in
-- [ ] Birdie
-- [ ] Eagle
-- [ ] 3 GIR in a row
-- [ ] Approach shot within 5-feet
+- [x]  Chip-in
+- [x] Birdie
+- [x] Eagle
+- [x] 3 GIR in a row
+- [x] Approach shot within 5-feet
 * Tap in putt for Birdie
 * farthest drive in group
 * 1-Putt + 20'
