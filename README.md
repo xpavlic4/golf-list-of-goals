@@ -20,14 +20,14 @@ Short term:
 * no scores over bogey
 
 Long term
-[x] hole-in-one
-[x] break 90
-[x] break 80
-[x] par 5 in 2
-[x] play the black
-[x] eagle on par 4
+- [x] hole-in-one
+- [x] break 90
+- [x] break 80
+- [x] par 5 in 2
+- [x] play the black
+- [x] eagle on par 4
 * eagle on par 5
-[x] 9 GIR
+- [x] 9 GIR
 * 2/4 fairways
 * 6 GIR in a row
 * par or better on all par 3's
